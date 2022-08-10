@@ -2,13 +2,13 @@
 
 ## PHP, Javascript , HTML, CSS, Jquery, Ajax etc.
 
-##Home page
+## Home page
 
 ### This is how homepage will be displayed.
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/80634110/163763312-bea3cae2-f20d-4fcf-8724-f7831a34b5d7.png">
 
-##Dasboard
+## Dasboard
 
 ### This is how Dashboard will be displayed.
 
